@@ -6,4 +6,4 @@
 
 ## Description:
 
-A simple app where you can type into a form and create your own cupcakes. Made with javascript, python, flask, SQLA, HTML, and CSS.
+A simple app where you can type into a form and create your own cupcakes. Made with javascript, python, flask, SQLA, HTML, CSS, and my own JSON API.
