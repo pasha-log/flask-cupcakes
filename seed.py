@@ -9,6 +9,7 @@ c1 = Cupcake(
     flavor="cherry",
     size="large",
     rating=5,
+    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROwFctPEcx9cvV9PaPjRzYcZ2OhON58S50fw&usqp=CAU"
 )
 
 c2 = Cupcake(
